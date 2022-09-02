@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","u":"allclasses-index.html"},{"p":"linkedList","l":"Application"},{"p":"linkedList","l":"LinkedList"}];updateSearchResults();
