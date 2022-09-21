@@ -1,5 +1,9 @@
 
-
+/**
+ * Application to test Linked List
+ * @author njohnson3, Zachary Cowan
+ * @version 9/1/2022
+ */
 public class Application {
 
 	public static void main(String[] args) {
