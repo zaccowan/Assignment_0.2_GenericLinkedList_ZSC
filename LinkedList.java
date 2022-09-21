@@ -1,4 +1,4 @@
-package linkedList;
+
 /**
  * Generic form of LinkedList class
  * @author njohnson3, Zachary Cowan
