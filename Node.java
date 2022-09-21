@@ -1,4 +1,4 @@
-package linkedList;
+
 
 /**
  * Generic form of Node class.
